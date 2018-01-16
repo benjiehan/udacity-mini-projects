@@ -2,9 +2,9 @@
 
 ## Pre-requisites:
   * [Python3](https://www.python.org/)
-  * [Beautiful Soup Module](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-  * [Requests Module](http://docs.python-requests.org/en/master/user/install/)
-  * OPTIONAL [Homebrew](https://docs.brew.sh/Homebrew-and-Python.html)
+  * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Beautiful Soup is a Python library for pulling data out of HTML and XML files.
+  * [Requests](http://docs.python-requests.org/en/master/user/install/) - Requests allows you to send organic, grass-fed HTTP/1.1 requests, without the need for manual labor.
+  * OPTIONAL [Homebrew](https://docs.brew.sh/Homebrew-and-Python.html) - Homebrew is a free and open-source software package management system that simplifies the installation of software on Apple's macOS operating system.
   * WikiWebCrawler.py - see downloads section
 
 ## Running the project:
